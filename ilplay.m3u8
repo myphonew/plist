@@ -1,0 +1,43 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://github.com/spacestangs/israeli-tv-providers-logos/blob/061748ed9c24958c7177ae8fdc4dab6a9dc24196/il/kan11.jpg?raw=true", כאן 11
+https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/spacestangs/israeli-tv-providers-logos/blob/061748ed9c24958c7177ae8fdc4dab6a9dc24196/il/keshet.png?raw=true", קשת 12
+http://t.gnz.co.il:8080//stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/spacestangs/israeli-tv-providers-logos/blob/061748ed9c24958c7177ae8fdc4dab6a9dc24196/il/Reshet13.png?raw=true", רשת 13
+https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/spacestangs/israeli-tv-providers-logos/blob/main/il/14.png?raw=true", עכשיו 14
+https://ch14-channel14-content.akamaized.net/hls/live/2104807/CH14_CHANNEL14/0/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/spacestangs/israeli-tv-providers-logos/blob/main/il/744px-Knessetch10.svg.png?raw=true", ערוץ הכנסת
+https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/spacestangs/israeli-tv-providers-logos/blob/main/il/channels4_profile.jpg?raw=true", כאן חינוכית
+https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/spacestangs/israeli-tv-providers-logos/blob/main/il/Bnei-baruch.jpg?raw=true", קבלה לעם
+https://edge2.il.kab.tv/live/tv66-heb-high/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/spacestangs/israeli-tv-providers-logos/blob/main/il/mkan.png?raw=true", מכאן ערבית
+https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/spacestangs/israeli-tv-providers-logos/blob/main/il/Hala_TV_Logo1.svg.png?raw=true", הלא TV ערבית
+https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
+
+#EXTINF:-1 , TNT4
+https://tvcdnpotok.com/tnt_com/index.m3u8?wmsAuthSign=b9150d2a9e40f7b25f80bd6c704816df-1738967773-3i932i622i141
+
+#EXTINF:-1 tvg-logo="https://github.com/spacestangs/israeli-tv-providers-logos/blob/main/il/kanhinuhit32.jpg?raw=true", Kan Kids (720p)
+https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://smotret.tv/images/pervyj-kanal.webp", Первый канал
+https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
+
+#EXTINF:-1 , 24 Канал (1080p)
+https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+
+#EXTINF:-1 , BlackSeaTV.ua
+https://stream.skyvision.com.ua/blackseatv/stream/main/playlist.m3u8
