@@ -4,7 +4,7 @@
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/spacestangs/israeli-tv-providers-logos/blob/061748ed9c24958c7177ae8fdc4dab6a9dc24196/il/keshet.png?raw=true", קשת 12
-http://t.gnz.co.il:8080//stream.m3u8
+http://t.gnz.co.il:8182/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/spacestangs/israeli-tv-providers-logos/blob/061748ed9c24958c7177ae8fdc4dab6a9dc24196/il/Reshet13.png?raw=true", רשת 13
 https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8
@@ -41,3 +41,4 @@ https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 
 #EXTINF:-1 , BlackSeaTV.ua
 https://stream.skyvision.com.ua/blackseatv/stream/main/playlist.m3u8
+
